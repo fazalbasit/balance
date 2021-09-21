@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "368823504011",
+    "project_id": "balancebynature-28681",
+    "storage_bucket": "balancebynature-28681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368823504011:android:5a202cf952d978b14f588e",
+        "android_client_info": {
+          "package_name": "com.fbad.balance.balance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368823504011-qdjpiq2bricj4nm541ed68putdf01307.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6W8S03fHbjKUFuDgmQp7qTdlEyipLiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368823504011-qdjpiq2bricj4nm541ed68putdf01307.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368823504011-1odv358nc27s7o4j3cl3b31pioqccrkf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fbad.balancebynature1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368823504011:android:ed7cb7754f9133c44f588e",
+        "android_client_info": {
+          "package_name": "com.fbad.balancebynature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368823504011-qdjpiq2bricj4nm541ed68putdf01307.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6W8S03fHbjKUFuDgmQp7qTdlEyipLiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368823504011-qdjpiq2bricj4nm541ed68putdf01307.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368823504011-1odv358nc27s7o4j3cl3b31pioqccrkf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fbad.balancebynature1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
